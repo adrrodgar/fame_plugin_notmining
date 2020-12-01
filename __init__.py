@@ -1,0 +1,3 @@
+'''
+Notmining module for fame
+'''
